@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "985694853410",
+    "firebase_url": "https://docsapp-32c52-default-rtdb.firebaseio.com",
     "project_id": "docsapp-32c52",
     "storage_bucket": "docsapp-32c52.appspot.com"
   },
@@ -29,6 +30,13 @@
             {
               "client_id": "985694853410-q63d5bkak5aum8gu82gobtpiadn3ndbb.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "985694853410-mg9ki603uge7bdob0dcqh4ijo5qv5ekq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.DocsApp"
+              }
             }
           ]
         }
